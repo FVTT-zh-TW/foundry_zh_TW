@@ -2,13 +2,16 @@
   "name": "foundry_zh_TW",
   "title": "Translation: 正體中文 [Core]",
   "description": "為 FVTT 核心系统增加正體中文。",
-  "version": "0.8.6",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
   "author": "Sass",
+  "authors": [],
+  "url": "https://github.com/Rosataker/foundry_zh_TW",
+  "flags": {},
+  "version": "0.8.6",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.8.9",
   "scripts": [],
+  "esmodules": [],
   "styles": [],
-  "packs": [],
   "languages": [
     {
       "lang": "zh-TW",
@@ -16,7 +19,12 @@
       "path": "./lang/zh-TW.json"
     }
   ],
-  "url": "https://github.com/Rosataker/foundry_zh_TW",
+  "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
   "manifest": "https://raw.githubusercontent.com/Rosataker/foundry_zh_TW/0.8.6/module.json",
-  "download": "https://github.com/Rosataker/foundry_zh_TW/archive/refs/tags/0.8.6.zip"
+  "download": "https://github.com/Rosataker/foundry_zh_TW/archive/refs/tags/0.8.6.zip",
+  "protected": false,
+  "coreTranslation": true
 }
