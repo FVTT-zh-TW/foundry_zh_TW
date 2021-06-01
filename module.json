@@ -3,7 +3,7 @@
   "title": "Translation: 正體中文 [Core]",
   "description": "為 FVTT 核心系统增加正體中文。",
   "version": "0.8.6",
-  "minimumCoreVersion": "0.6.5",
+  "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
   "author": "Sass",
   "scripts": [],
