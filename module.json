@@ -16,7 +16,7 @@
       "path": "./lang/zh-TW.json"
     }
   ],
-  "url": "https://gitlab.com/fvtt-zh_TW/foundry_zh_TW",
-  "manifest": "https://gitlab.com/fvtt-zh_TW/foundry_zh_TW/-/raw/0.1.6/module.json",
-  "download": "https://gitlab.com/fvtt-zh_TW/foundry_zh_TW/-/archive/0.1.6/foundry_zh_TW-0.1.6.zip"
+  "url": "https://github.com/Rosataker/foundry_zh_TW",
+  "manifest": "https://github.com/Rosataker/foundry_zh_TW/-/raw/0.8.6/module.json",
+  "download": "https://github.com/Rosataker/foundry_zh_TW/-/archive/0.8.6/foundry_zh_TW-0.1.6.zip"
 }
