@@ -1,0 +1,22 @@
+{
+  "name": "foundry_zh_TW",
+  "title": "Translation: 正體中文 [Core]",
+  "description": "為 FVTT 核心系统增加正體中文。",
+  "version": "0.8.6",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.8.9",
+  "author": "Sass",
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "zh-TW",
+      "name": "正體中文",
+      "path": "./lang/zh-TW.json"
+    }
+  ],
+  "url": "https://gitlab.com/fvtt-zh_TW/foundry_zh_TW",
+  "manifest": "https://gitlab.com/fvtt-zh_TW/foundry_zh_TW/-/raw/0.1.6/module.json",
+  "download": "https://gitlab.com/fvtt-zh_TW/foundry_zh_TW/-/archive/0.1.6/foundry_zh_TW-0.1.6.zip"
+}
